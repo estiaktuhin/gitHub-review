@@ -9,3 +9,10 @@ computer -github
 
 4. git workflow
 
+5. merge conflict
+main branch -> index.html ->
+feature/skill2 branch -> index.html -> java
+main branch -> index.html -> python
+
+6.how to resolve merge conflict
+
