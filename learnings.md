@@ -6,3 +6,6 @@
     -ssh key generate
     -ss public key add to github
 computer -github
+
+4. git workflow
+
